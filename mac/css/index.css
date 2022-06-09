@@ -1,0 +1,21 @@
+.titulo{
+    background-color: orange;
+    color: white;
+    padding: 20px;
+    font-family: 'Roboto', sans-serif;
+    
+}
+.subtitulo{
+    margin-top: 25px;
+    color: black;
+    font-family: 'Dancing Script', cursive;
+}
+.bloco1 {
+    color: black;
+}
+    .bloco1 img{
+    position:relative;
+    right: 60px;
+    width: 800px;
+    border: 10px solid black;
+}
